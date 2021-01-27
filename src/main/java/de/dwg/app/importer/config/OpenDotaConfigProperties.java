@@ -30,6 +30,6 @@ public class OpenDotaConfigProperties {
         @NotBlank
         String recentMatchesSubUrl;
         @NotBlank
-        String wordcloudSubUrl;
+        String wordCloudSubUrl;
     }
 }
